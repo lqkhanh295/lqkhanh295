@@ -5,7 +5,7 @@
 <br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&width=700&lines=ASP.NET+Core+8+%7C+Clean+Architecture+%7C+SignalR;Concurrency+handling.+Race+conditions+solved.+%E2%9A%A1;SQL+Server+%7C+Stored+Procs+%7C+EF+Core;React+18+%7C+Firebase+%7C+Zustand+%7C+Three.js;200%2B+concurrent+users.+Zero+downtime.+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&width=700&lines=ASP.NET+Core+%7C+Clean+Architecture+%7C+SignalR;Concurrency+handling.+Race+conditions+solved.+%E2%9A%A1;SQL+Server+%7C+Stored+Procs+%7C+EF+Core;React+18+%7C+Firebase+%7C+Zustand+%7C+Three.js;200%2B+concurrent+users.+Zero+downtime.+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 </div>
