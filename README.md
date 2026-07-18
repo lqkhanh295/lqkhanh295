@@ -21,7 +21,7 @@
 Name    :  Lê Quốc Khánh
 Role    :  .NET Backend Developer (Full-stack capable)
 Focus   :  Clean Architecture · Real-time Systems · API Design
-Now     :  .NET Developer Intern @ FPT Software — breaking things so users don't have to
+Now     :  Intern @ FPT Software — breaking things so users don't have to
 Study   :  FPT University — Software Engineering · Class of 2027
 ```
 
